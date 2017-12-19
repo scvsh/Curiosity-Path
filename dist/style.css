@@ -1,0 +1,12 @@
+html,
+body,
+#map_canvas {
+  height: 100vh;
+  margin: 0;
+}
+.test {
+  background: red;
+  border: 1px solid red;
+}
+
+/*# sourceMappingURL=style.css.map*/

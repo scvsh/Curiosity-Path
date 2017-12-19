@@ -40,7 +40,7 @@ mapTypes['mars_visible'] = {
     },
     tileSize: new google.maps.Size(256, 256),
     isPng: false,
-    maxZoom: 9,
+    maxZoom: 90,
     minZoom: 2,
     radius: 3396200,
     name: 'Visible',
@@ -156,6 +156,18 @@ export function initialize() {
         mapOptions,
     );
 
+     var marker = new google.maps.Marker({
+    position: {lat: 1.9462, lng: 354.4734},
+    map: map,
+    title: 'Opportunity'
+  });
+    var marker2 = new google.maps.Marker({
+    position: {lat: -4.5, lng: 137.4},
+    map: map,
+    title: 'Opportunity'
+  });
+
+
     // push the credit/copyright custom control
     map.controls[google.maps.ControlPosition.BOTTOM_RIGHT].push(creditNode);
 
@@ -171,7 +183,7 @@ export function initialize() {
 
     // start with the moon map type
     map.setMapTypeId('mars_elevation');
-}
+   }
 
 $(document).ready(function() {
     console.log('ready!');

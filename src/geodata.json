@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Mars 2",
+		"nationality": "USSR",
+		"landed": "1971",
+		"mass": "1210",
+		"status": "Failure during descent; crashed on surface",
+		"location": [45, 313]
+	},
+    {
+		"name": "Mars 3",
+		"nationality": "USSR",
+		"landed": "1971",
+		"mass": "1210",
+		"status": "Transmission failure 14.5 seconds after soft landing",
+		"location": [45, 158]
+	},
+    {
+		"name": "Mars 2",
+		"nationality": "USSR",
+		"landed": "1971",
+		"mass": "1210",
+		"status": "Failure during descent; crashed on surface",
+		"location": [45, 313]
+	}
+]
