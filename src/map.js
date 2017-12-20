@@ -1,4 +1,5 @@
 import $ from 'jquery';
+//let objects = require('./objects.json')
 var mapTypes = {};
 
 
@@ -166,6 +167,8 @@ export function initialize() {
     map: map,
     title: 'Opportunity'
   });
+
+    console.log(objects.landings);
 
 
     // push the credit/copyright custom control

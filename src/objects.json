@@ -1,0 +1,117 @@
+{
+    "landings": [
+    {
+    "name": "Mars 2",
+    "origin": "USSR",
+    "year": "1971",
+    "mass": "1210",
+    "status": "Failure during descent; crashed on surface",
+    "location": ["-45", "-313"]
+},
+{
+    "name": "Mars 3",
+    "origin": "USSR",
+    "year": "1971",
+    "mass": "1210",
+    "status": "Transmission failure 14.5 seconds after soft landing",
+    "location": ["-45", "-158"]
+},
+{
+    "name": "Mars 6",
+    "origin": "USSR",
+    "year": "1973",
+    "mass": "635",
+    "status": "Returned corrupted data for 224 seconds during its descent but contact lost before reaching surface[5]",
+    "location": ["-23.90", "-19.42"]
+},
+{
+    "name": "Viking 1 lander",
+    "origin": "United States",
+    "year": "1976",
+    "mass": "657",
+    "status": "Operated 2245 sols. Last contact Nov 11, 1982",
+    "location": ["22.697", "-48.222"]
+},
+{
+    "name": "Viking 2 lander",
+    "origin": "United States",
+    "year": "1976",
+    "mass": "657",
+    "status": "Operated 1281 sols. Last contact Apr 11, 1980",
+    "location": ["48.269", "-255.990"]
+},
+{
+    "name": "Mars Pathfinder lander & Sojourner rover",
+    "origin": "United States",
+    "year": "1997",
+    "mass": "360",
+    "status": "Operated 83 sols. Last contact Sep 27, 1997[9]",
+    "location": ["19.33", "-33.55"]
+},
+{
+    "name": "Mars Climate Orbiter",
+    "origin": "United States",
+    "year": "1999",
+    "mass": "629",
+    "status": "Destroyed by atmospheric stresses & friction.[12]",
+    "location": "Unknown"
+},
+{
+    "name": "Mars Polar Lander & Deep Space 2",
+    "origin": "United States",
+    "year": "1999",
+    "mass": "500",
+    "status": "Unknown failure during descent; crashed on surface",
+    "location": ["-76", "-195"]
+},
+{
+    "name": "Beagle 2",
+    "origin": "United Kingdom",
+    "year": "2003",
+    "mass": "33.2",
+    "status": "Landed safely; solar panels failed to deploy",
+    "location": ["11.5265", "90.4295"]
+},
+{
+    "name": "Spirit rover (MER-A)",
+    "origin": "United States",
+    "year": "2004",
+    "mass": "185",
+    "status": "Operated 2210 sols. Last contact Mar 22, 2010",
+    "location": ["-14.5718", "175.4785"]
+},
+{
+    "name": "Opportunity rover (MER-B)",
+    "origin": "United States",
+    "year": "2004",
+    "mass": "185",
+    "status": "Still in operation, 4933 sols",
+    "location": ["-1.9462", "354.4734"]
+},
+{
+    "name": "Phoenix Mars Lander",
+    "origin": "United States",
+    "year": "2008",
+    "mass": "350",
+    "status": "Operated 155 sols. Last contact Nov 2, 2008",
+    "location": ["68.15", "-125.9"]
+},
+{
+    "name": "Mars Science Laboratory (Curiosity)",
+    "origin": "United States",
+    "year": "2012",
+    "mass": "900",
+    "status": "Still in operation, 1901 sols",
+    "location": ["-4.6000l", "134.2000"]
+},
+{
+    "name": "Schiaparelli EDM lander",
+    "origin": "Europe (ESA)\nRussia (Roscosmos)",
+    "year": "2016",
+    "mass": "577",
+    "status": "Likely crashed on impact; transmitted descent telemetry",
+    "location": "Meridiani Planum"
+}
+    ]
+}
+
